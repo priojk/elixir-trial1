@@ -1,4 +1,4 @@
-# KV
+# Trialing Elixir and OTP principles, starting from KV example in getting started guide
 
-**TODO: Add description**
+Key Value store in distributed environment, starting from multiple processes on one node changing to distributed notes.
 
